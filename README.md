@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Content Taxonomy
+    Taxonomy
   </h1>
   <p>
     Content taxonomy that extend Google verticals with Internationalization.
