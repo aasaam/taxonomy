@@ -1,0 +1,18 @@
+/World Localities/Asia/South Asia/Afghanistan/Kabul
+/World Localities/Asia/South Asia/Afghanistan/Kandahar
+/World Localities/Asia/South Asia/Afghanistan/Herat
+/World Localities/Asia/South Asia/Afghanistan/Mazar-i-Sharif
+/World Localities/Asia/South Asia/Afghanistan/Kunduz
+/World Localities/Asia/South Asia/Afghanistan/Jalalabad
+/World Localities/Asia/South Asia/Afghanistan/Taloqan
+/World Localities/Asia/South Asia/Afghanistan/Puli Khumri
+/World Localities/Asia/South Asia/Afghanistan/Charikar
+/World Localities/Asia/South Asia/Afghanistan/Lashkargah
+/World Localities/Asia/South Asia/Afghanistan/Sheberghan
+/World Localities/Asia/South Asia/Afghanistan/Ghazni
+/World Localities/Asia/South Asia/Afghanistan/Khost
+/World Localities/Asia/South Asia/Afghanistan/Sar-e Pol
+/World Localities/Asia/South Asia/Afghanistan/Chaghcharan
+/World Localities/Asia/South Asia/Afghanistan/Mihtarlam
+/World Localities/Asia/South Asia/Afghanistan/Farah
+/World Localities/Asia/South Asia/Afghanistan/Puli Alam

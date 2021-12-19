@@ -1,0 +1,31 @@
+{
+  "name": "@aasaam/taxonomy",
+  "version": "0.0.0",
+  "description": "Content taxonomy that extend Google verticals with Internationalization.",
+  "license": "MIT",
+  "sideEffects": false,
+  "types": "./index.d.ts",
+  "keywords": [
+    "content",
+    "taxonomy",
+    "tree"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aasaam/taxonomy.git"
+  },
+  "scripts": {
+    "type-check": "tsc --project jsconfig.json --maxNodeModuleJsDepth 0 --noEmit",
+    "lint": "eslint"
+  },
+  "devDependencies": {
+    "@types/node": "^16",
+    "commander": "^8",
+    "csv-generate": "^4",
+    "csv-parse": "^5",
+    "eslint": "^8",
+    "eslint-plugin-import": "^2",
+    "eslint-plugin-prettier": "^4",
+    "typescript": "^4"
+  }
+}

@@ -1,0 +1,23 @@
+/World Localities/Asia/West Asia/Iraq/Baghdad
+/World Localities/Asia/West Asia/Iraq/Basra
+/World Localities/Asia/West Asia/Iraq/Mosul
+/World Localities/Asia/West Asia/Iraq/Kirkuk
+/World Localities/Asia/West Asia/Iraq/Najaf
+/World Localities/Asia/West Asia/Iraq/Erbil
+/World Localities/Asia/West Asia/Iraq/Al Hillah
+/World Localities/Asia/West Asia/Iraq/Sulaymaniyah
+/World Localities/Asia/West Asia/Iraq/Karbala
+/World Localities/Asia/West Asia/Iraq/Amarah
+/World Localities/Asia/West Asia/Iraq/Al Diwaniyah
+/World Localities/Asia/West Asia/Iraq/Nasiriyah
+/World Localities/Asia/West Asia/Iraq/Kut
+/World Localities/Asia/West Asia/Iraq/Zubayr
+/World Localities/Asia/West Asia/Iraq/Tal Afar
+/World Localities/Asia/West Asia/Iraq/Fallujah
+/World Localities/Asia/West Asia/Iraq/Baqubah
+/World Localities/Asia/West Asia/Iraq/Samawah
+/World Localities/Asia/West Asia/Iraq/Najaf Governorate
+/World Localities/Asia/West Asia/Iraq/Ramadi
+/World Localities/Asia/West Asia/Iraq/Samarra
+/World Localities/Asia/West Asia/Iraq/Dahuk
+/World Localities/Asia/West Asia/Iraq/Umm Qasr

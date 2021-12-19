@@ -1,0 +1,97 @@
+/World Localities/Asia/West Asia/Iran/Mashhad
+/World Localities/Asia/West Asia/Iran/Isfahan
+/World Localities/Asia/West Asia/Iran/Karaj
+/World Localities/Asia/West Asia/Iran/Shiraz
+/World Localities/Asia/West Asia/Iran/Tabriz
+/World Localities/Asia/West Asia/Iran/Qom
+/World Localities/Asia/West Asia/Iran/Ahvaz
+/World Localities/Asia/West Asia/Iran/Kermanshah
+/World Localities/Asia/West Asia/Iran/Urmia
+/World Localities/Asia/West Asia/Iran/Rasht
+/World Localities/Asia/West Asia/Iran/Zahedan
+/World Localities/Asia/West Asia/Iran/Hamadan
+/World Localities/Asia/West Asia/Iran/Kerman
+/World Localities/Asia/West Asia/Iran/Yazd
+/World Localities/Asia/West Asia/Iran/Ardabil
+/World Localities/Asia/West Asia/Iran/Bandar Abbas
+/World Localities/Asia/West Asia/Iran/Arak
+/World Localities/Asia/West Asia/Iran/Eslamshahr
+/World Localities/Asia/West Asia/Iran/Qazvin
+/World Localities/Asia/West Asia/Iran/Zanjan
+/World Localities/Asia/West Asia/Iran/Khorramabad
+/World Localities/Asia/West Asia/Iran/Sanandaj
+/World Localities/Asia/West Asia/Iran/Malard
+/World Localities/Asia/West Asia/Iran/Qods
+/World Localities/Asia/West Asia/Iran/Kashan
+/World Localities/Asia/West Asia/Iran/Gorgan
+/World Localities/Asia/West Asia/Iran/Golestan
+/World Localities/Asia/West Asia/Iran/Sari
+/World Localities/Asia/West Asia/Iran/Shahriar
+/World Localities/Asia/West Asia/Iran/Dezful
+/World Localities/Asia/West Asia/Iran/Khomeyni Shahr
+/World Localities/Asia/West Asia/Iran/Borujerd
+/World Localities/Asia/West Asia/Iran/Nishapur
+/World Localities/Asia/West Asia/Iran/Sabzevar
+/World Localities/Asia/West Asia/Iran/Najafabad
+/World Localities/Asia/West Asia/Iran/Amol
+/World Localities/Asia/West Asia/Iran/Babol
+/World Localities/Asia/West Asia/Iran/Varamin
+/World Localities/Asia/West Asia/Iran/Abadan
+/World Localities/Asia/West Asia/Iran/Pakdasht
+/World Localities/Asia/West Asia/Iran/Khoy
+/World Localities/Asia/West Asia/Iran/Saveh
+/World Localities/Asia/West Asia/Iran/Bojnord
+/World Localities/Asia/West Asia/Iran/Qaem Shahr
+/World Localities/Asia/West Asia/Iran/Bushehr
+/World Localities/Asia/West Asia/Iran/Qarchak
+/World Localities/Asia/West Asia/Iran/Sirjan
+/World Localities/Asia/West Asia/Iran/Birjand
+/World Localities/Asia/West Asia/Iran/Ilam
+/World Localities/Asia/West Asia/Iran/Bukan
+/World Localities/Asia/West Asia/Iran/Maragheh
+/World Localities/Asia/West Asia/Iran/Malayer
+/World Localities/Asia/West Asia/Iran/Shahr-e Kord
+/World Localities/Asia/West Asia/Iran/Bandar-e Mahshahr
+/World Localities/Asia/West Asia/Iran/Semnan
+/World Localities/Asia/West Asia/Iran/Rafsanjan
+/World Localities/Asia/West Asia/Iran/Mahabad
+/World Localities/Asia/West Asia/Iran/Gonbad-e Kavus
+/World Localities/Asia/West Asia/Iran/Shahin Shahr
+/World Localities/Asia/West Asia/Iran/Shahrud
+/World Localities/Asia/West Asia/Iran/Saqqez
+/World Localities/Asia/West Asia/Iran/Marvdasht
+/World Localities/Asia/West Asia/Iran/Zabol
+/World Localities/Asia/West Asia/Iran/Torbat-e Heydarieh
+/World Localities/Asia/West Asia/Iran/Khorramshahr
+/World Localities/Asia/West Asia/Iran/Andimeshk
+/World Localities/Asia/West Asia/Iran/Marand
+/World Localities/Asia/West Asia/Iran/Shahreza
+/World Localities/Asia/West Asia/Iran/Miandoab
+/World Localities/Asia/West Asia/Iran/Izeh
+/World Localities/Asia/West Asia/Iran/Bandar-e Anzali
+/World Localities/Asia/West Asia/Iran/Jahrom
+/World Localities/Asia/West Asia/Iran/Jiroft
+/World Localities/Asia/West Asia/Iran/Marivan
+/World Localities/Asia/West Asia/Iran/Kamal Shahr
+/World Localities/Asia/West Asia/Iran/Yasuj
+/World Localities/Asia/West Asia/Iran/Nazarabad
+/World Localities/Asia/West Asia/Iran/Behbahan
+/World Localities/Asia/West Asia/Iran/Bam
+/World Localities/Asia/West Asia/Iran/Fasa
+/World Localities/Asia/West Asia/Iran/Quchan
+/World Localities/Asia/West Asia/Iran/Masjed Soleyman
+/World Localities/Asia/West Asia/Iran/Mohammadshahr
+/World Localities/Asia/West Asia/Iran/Dorud
+/World Localities/Asia/West Asia/Iran/Borazjan
+/World Localities/Asia/West Asia/Iran/Fardis
+/World Localities/Asia/West Asia/Iran/Nasimshahr
+/World Localities/Asia/West Asia/Iran/Andisheh
+/World Localities/Asia/West Asia/Iran/Iranshahr
+/World Localities/Asia/West Asia/Iran/Baneh
+/World Localities/Asia/West Asia/Iran/Chabahar
+/World Localities/Asia/West Asia/Iran/Robat Karim
+/World Localities/Asia/West Asia/Iran/Kashmar
+/World Localities/Asia/West Asia/Iran/Shushtar
+/World Localities/Asia/West Asia/Iran/Lahijan
+/World Localities/Asia/West Asia/Iran/Ahar
+/World Localities/Asia/West Asia/Iran/Torbat-e Jam
