@@ -2451,3 +2451,33 @@
 5352	5589	/World Localities/Oceania/Pacific Islands/Polynesia
 5568	5352	/World Localities/Oceania/Pacific Islands/Polynesia/Tahiti & Bora Bora
 5353	5000	/World Localities/Polar Regions
+7001	5084	/World Localities/Asia/West Asia/Iran/Alborz
+7002	5084	/World Localities/Asia/West Asia/Iran/Ardabil
+7003	5084	/World Localities/Asia/West Asia/Iran/Azerbaijan, East
+7004	5084	/World Localities/Asia/West Asia/Iran/Azerbaijan, West
+7005	5084	/World Localities/Asia/West Asia/Iran/Bushehr
+7006	5084	/World Localities/Asia/West Asia/Iran/Chahar Mahaal and Bakhtiari
+7007	5084	/World Localities/Asia/West Asia/Iran/Fars
+7008	5084	/World Localities/Asia/West Asia/Iran/Gilan
+7009	5084	/World Localities/Asia/West Asia/Iran/Golestan
+7010	5084	/World Localities/Asia/West Asia/Iran/Hamadan
+7011	5084	/World Localities/Asia/West Asia/Iran/Hormozgān
+7012	5084	/World Localities/Asia/West Asia/Iran/Ilam
+7013	5084	/World Localities/Asia/West Asia/Iran/Isfahan
+7014	5084	/World Localities/Asia/West Asia/Iran/Kerman
+7015	5084	/World Localities/Asia/West Asia/Iran/Kermanshah
+7016	5084	/World Localities/Asia/West Asia/Iran/Khorasan, North
+7017	5084	/World Localities/Asia/West Asia/Iran/Khorasan, Razavi
+7018	5084	/World Localities/Asia/West Asia/Iran/Khorasan, South
+7019	5084	/World Localities/Asia/West Asia/Iran/Khuzestan
+7020	5084	/World Localities/Asia/West Asia/Iran/Kohgiluyeh and Boyer-Ahmad
+7021	5084	/World Localities/Asia/West Asia/Iran/Kurdistan
+7022	5084	/World Localities/Asia/West Asia/Iran/Lorestan
+7023	5084	/World Localities/Asia/West Asia/Iran/Markazi
+7024	5084	/World Localities/Asia/West Asia/Iran/Mazandaran
+7025	5084	/World Localities/Asia/West Asia/Iran/Qazvin
+7026	5084	/World Localities/Asia/West Asia/Iran/Qom
+7027	5084	/World Localities/Asia/West Asia/Iran/Semnan
+7028	5084	/World Localities/Asia/West Asia/Iran/Sistan and Baluchestan
+7029	5084	/World Localities/Asia/West Asia/Iran/Yazd
+7030	5084	/World Localities/Asia/West Asia/Iran/Zanjan
